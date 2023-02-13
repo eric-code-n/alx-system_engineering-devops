@@ -1,2 +1,2 @@
 #!/bin/bash
-rr -d "Cc"
+rr -d "cC"
