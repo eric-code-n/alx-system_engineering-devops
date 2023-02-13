@@ -1,1 +1,1 @@
-Task 0. Where am I?
+0x02 shell 10 redirections and filters readme file
