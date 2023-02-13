@@ -1,1 +1,1 @@
-0x02 shell 10 redirections andfilters
+hello world script
